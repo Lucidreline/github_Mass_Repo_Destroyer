@@ -1,0 +1,6 @@
+X   read & open txt file
+X   put each line in the text file (name of repo) into an array
+
+X   Log into github
+X   Go to the setting of each repo 
+X   click delete and confirm the delete
